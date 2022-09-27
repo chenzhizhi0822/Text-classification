@@ -1,1 +1,1 @@
-# text-classifiction
+# text-classification
